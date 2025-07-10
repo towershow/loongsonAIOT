@@ -1,0 +1,3 @@
+/home/yuqing/2k300/code/Camera_5G/build/CMakeFiles/rebuild_cache.dir
+/home/yuqing/2k300/code/Camera_5G/build/CMakeFiles/edit_cache.dir
+/home/yuqing/2k300/code/Camera_5G/build/CMakeFiles/camera_streaming.dir

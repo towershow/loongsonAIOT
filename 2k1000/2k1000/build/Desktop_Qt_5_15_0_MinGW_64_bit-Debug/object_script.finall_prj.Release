@@ -1,0 +1,10 @@
+release/can.o
+release/main.o
+release/mainwindow.o
+release/oscilloscope.o
+release/record.o
+release/qrc_res.o
+release/moc_can.o
+release/moc_mainwindow.o
+release/moc_oscilloscope.o
+release/moc_record.o

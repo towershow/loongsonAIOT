@@ -1,0 +1,15 @@
+{
+    "files.associations": {
+        "ls1c102_i2c.h": "c",
+        "ls1x_printf.h": "c",
+        "esp8266.h": "c",
+        "ls1c102_interrupt.h": "c",
+        "oled.h": "c",
+        "ls1x_latimer.h": "c",
+        "ls1x_gpio.h": "c",
+        "mq9.h": "c",
+        "lora.h": "c",
+        "dht11.h": "c",
+        "ls1c102_ptimer.h": "c"
+    }
+}
